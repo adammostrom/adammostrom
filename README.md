@@ -12,21 +12,7 @@ Tools and technologies I am competent with:
 - Docker
 - Postgres
 
-## 🚀 Projects
-
-### Go API Tester
-CLI tool for testing HTTP APIs using YAML-defined test cases.
-
-### Issue Tracker
-A lightweight issue tracker written in Go with SQLite.
-
-### Discrete Event Simulator
-A simulation system for modelling resource utilization and
-maintenance workflows.
-
-## 📫 Contact
-
-- [LinkedIn](www.linkedin.com/in/adam-moström-65709a18a)
+Email:
 - [Email](mailto:admmos@proton.me)
 
 <!--
