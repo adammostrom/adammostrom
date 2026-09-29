@@ -1,7 +1,6 @@
 # Hello! 👋
 
-My name is Adam. I currently work as a radio technician, I have a degree in  computer science.
-I'm interested backend systems, Go, Linux and software engineering.
+My name is Adam. I have a degree in  computer science and I'm interested backend systems, Go, Linux and software engineering.
 
 Tools and technologies I am competent with:
 - Go
